@@ -1,2 +1,3 @@
 # reverse-app-node
-A simple express app to reverse string
+
+Treehouse - A simple express app to reverse string
